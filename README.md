@@ -12,7 +12,7 @@
 
 Apaixonado por tecnologia, mercado digital, gestão, design, empreendedorismo, comunicação e inovação. Buscando sempre o topo, acredito que o papel do design nos ambientes de inovação vai muito além de tornar as coisas mais bonitas! Sou louco em questão de soluções, seja ela em venda, administrativa, gerencial ou digital! Acredito que tudo na vida, que se tem um problema, há uma solução, basta acreditar!
 
-Habilidades e Conhecimentos Gerais: Comprometimento, Liderança, Trabalho em equipe, Capacidade crítica, Flexibilidade, Iniciativa, Visão no cliente, Compreensão interpessoal e empatia, Negociação, Governança, Competitividade, Aprendizado e Desenvolvimento pessoal, Gestão do Conhecimento, Gestão de Projetos, Firewall, ITIL V3, Cobit 5, Microsoft Server, Microsoft Visio, SQL Server, Segurança, Redes, TCP/IP, Inglês Intermediário e conhecimentos em linguagens de programação como JavaScript, Php, C# e frameworks Laravel, Lumen, ReactJs, React Native, Docker, Kubernets, Ionic, HTML, CSS, Sass, jQuery, Bootstrap, Angular, Design gráfico e Web Design
+Habilidades e Conhecimentos Gerais: Comprometimento, Liderança, Trabalho em equipe, Capacidade crítica, Flexibilidade, Iniciativa, Visão no cliente, Compreensão interpessoal e empatia, Negociação, Governança, Competitividade, Aprendizado e Desenvolvimento pessoal, Gestão do Conhecimento, Gestão de Projetos, Firewall, ITIL V3, Cobit 5, Microsoft Server, Microsoft Visio, SQL Server, Segurança, Redes, TCP/IP, Inglês Intermediário e conhecimentos em linguagens de programação como JavaScript, Php, C# e frameworks Laravel, Lumen, AdonisJs, ReactJs, React Native, Docker, Kubernets, Ionic, HTML, CSS, Sass, jQuery, Bootstrap, Angular, Design gráfico e Web Design
 
 
 <div align="center">
@@ -29,6 +29,7 @@ Habilidades e Conhecimentos Gerais: Comprometimento, Liderança, Trabalho em equ
   <img align="center" alt="Felipe-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Felipe-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Felipe-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Felipe-AdonisJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
   <img align="center" alt="Felipe-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
