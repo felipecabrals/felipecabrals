@@ -3,8 +3,7 @@
 
 **Um pouco sobre..**
 
-- 🔭 Atualmente estou trabalhando com ReactJs e Laravel
-- 🌱 Estou me aperfeiçoando em Typescript
+- 🔭 Atualmente estou trabalhando com ReactJs, VueJs e Laravel, Java
 - 👯 Participo da ONG Projeto Sonho de Criança
 - ⚡ Curiosidades: Sou voluntário na AJEE-TO e sou pescador 😄
 
